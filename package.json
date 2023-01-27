@@ -1,0 +1,14 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seniru Dilmith",
+  "license": "ISC",
+  "dependencies": {
+    "react-circular-progressbar": "^2.1.0"
+  }
+}
